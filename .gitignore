@@ -1,0 +1,10 @@
+dc-dc_stepup_board/__Previews/
+dc-dc_stepup_board/History/
+mcu_board/__Previews/
+mcu_board/History/
+nixie_board/__Previews/
+nixie_board/History/
+ntp_client_wifi_board/__Previews/
+ntp_client_wifi_board/History/
+*.htm
+*.PrjPCBStructure
